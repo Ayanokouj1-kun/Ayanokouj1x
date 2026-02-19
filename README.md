@@ -119,14 +119,6 @@ I focus on writing clean, maintainable code and building practical solutions tha
 
 </div>
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ayanokouj1-kun&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-
-</div>
-
 ## Activity Graph
 
 <div align="center">
