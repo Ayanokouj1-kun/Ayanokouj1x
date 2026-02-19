@@ -122,8 +122,8 @@ I focus on writing clean, maintainable code and building practical solutions tha
 ## GitHub Trophies
 
 <div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ayanokouj1-kun&theme=radical&no-frame=true&no-bg=true&column=7)
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayanokouj1-kun&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 
 </div>
 
