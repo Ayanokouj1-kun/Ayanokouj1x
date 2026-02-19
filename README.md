@@ -106,7 +106,7 @@ I focus on writing clean, maintainable code and building practical solutions tha
 ## Get in Touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayanokouj1-kun)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saorihiyori17@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saorihiyori17@gmail.com)
 
 
 ## GitHub Stats
